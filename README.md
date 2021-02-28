@@ -46,3 +46,9 @@ Another issue with this microwave is the text speed. For example, when doing def
     4. Stop
 
 The microwave makes some of these options fairly easy like warming food and liquids but for the other use cases they are less intuitive. The microwave mainly provides user feedback through sound of button presses, and text. There are some issues with this approach however. For example if I want to fine tune some of the settings like setting power to 50% it takes too many presses and the text moves too slow because of the screen size. Also, there is not an indicator that indicates that the power is actually changed. Some of the things that need to be improved the most with this microwave is the user feedback, text speed, and ease of use.
+
+### Potential Improvements ###
+
+1. Implement a touch screen for better text
+2. Implement knob for obvious and quick power levels
+3. Removed rarely used / redundant Buttons
