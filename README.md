@@ -9,3 +9,8 @@ Some quick things to notice with the microwave is that there are a large number 
 
 ![Example of Interface](./gifs/InterfaceBig.gif)
 One of the main issues with this microwave is that if a person wanted to quickly just do a 7 minute cook time they would not be able to. Buttons 7,8,9,0 do not work unless cook time is selected first. This can throw people off at first. Another issue with the microwave is the express cook feature. Selecting buttons 1-6 will instantly start the microwave. This feature is not bad necessarily but why stop at button 6? Make it for all of the buttons except 0.
+
+# Defrost
+
+![Defrost](./gifs/Defrostsmall.gif)
+Another Issue with this microwave is the text speed. For example, when doing defrost the text moves extremely show and also it asks for the weight of the food that you are defrosting. It takes far too long to notify the user that it is requesting the weight. 
