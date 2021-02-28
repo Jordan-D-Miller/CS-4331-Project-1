@@ -34,14 +34,15 @@ Another issue with this microwave is the text speed. For example, when doing def
 
 ### Button Sequence ###
 
-* Heat (1-6mins)
-    1.  Press a number 1-6 (1-3 button presses )
+* Heat (1-6mins) 1 minimum presses
+    1. Press a number 1-6 
     2. Can add 30secs
     3. Stop
 
-* Heat(6mins+ or Exact)
+* Heat(6mins+ or Exact time) 3 minimum presses
+    1. Press Cooktime 
+    2. Press numbers 
+    3. Start
+    4. Stop
 
-
-
-
-The microwave makes some of these options fairly easy like warming food and liquids but for the other use cases they are less intuitive. For example if I want to fine tune the some of the settings like setting power to 50% it takes too many presses and the text moves too slow. Also, there is not an indicator that indicates that the power is actually changed. Some of the things that need to be improved the most with this microwave is the user feedback, text speed, and ease of use. 
+The microwave makes some of these options fairly easy like warming food and liquids but for the other use cases they are less intuitive. The microwave mainly provides user feedback through sound of button presses, and text. There are some issues with this approach however. For example if I want to fine tune some of the settings like setting power to 50% it takes too many presses and the text moves too slow because of the screen size. Also, there is not an indicator that indicates that the power is actually changed. Some of the things that need to be improved the most with this microwave is the user feedback, text speed, and ease of use.
