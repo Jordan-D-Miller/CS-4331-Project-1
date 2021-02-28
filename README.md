@@ -35,9 +35,9 @@ Another issue with this microwave is the text speed. For example, when doing def
 ### Button Sequence ###
 
 * Heat (1-6mins)
-    i. Press a number 1-6 (1-3 button presses )
-    ii.Can add 30secs
-    iii. Stop
+    1.  Press a number 1-6 (1-3 button presses )
+    2. Can add 30secs
+    3. Stop
 
 * Heat(6mins+ or Exact)
 
