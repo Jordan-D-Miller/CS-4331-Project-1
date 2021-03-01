@@ -54,4 +54,9 @@ The microwave makes some of these options fairly easy like warming food and liqu
 3. Removed rarely used / redundant Buttons
 
 # My Solution #
-![My Sketch](./gifs/p1JordanMiller.gif)
+![My Sketch Gif](./gifs/p1JordanMiller.gif)
+
+Added a knob for the power level because its easy to use and it is intuitive for all age ranges. A screen was added with less buttons to consolidate rarely used buttons. The screen also allows for faster text and more text clarity for those with troubled eyes. 
+
+![Edited Defrost](./images/AutoDefrost.JPG)
+
