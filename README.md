@@ -52,3 +52,6 @@ The microwave makes some of these options fairly easy like warming food and liqu
 1. Implement a touch screen for better text
 2. Implement knob for obvious and quick power levels
 3. Removed rarely used / redundant Buttons
+
+# My Solution #
+![My Sketch](./gifs/p1JordanMiller.gif)
